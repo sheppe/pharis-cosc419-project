@@ -12,4 +12,4 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-<wiki:gadget url="http://www.google.com/calendar/feeds/vpaosaqbq1ah2h0u9rq8t4qsbg%40group.calendar.google.com/public/basic">
+<iframe src="http://www.google.com/calendar/embed?src=vpaosaqbq1ah2h0u9rq8t4qsbg%40group.calendar.google.com&ctz=America/Vancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
