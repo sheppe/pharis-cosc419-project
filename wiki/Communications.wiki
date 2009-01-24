@@ -1,4 +1,5 @@
 #summary Member communications.
+#labels communications,email
 
 = Introduction =
 
