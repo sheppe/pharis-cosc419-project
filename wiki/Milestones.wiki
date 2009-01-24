@@ -1,4 +1,5 @@
 #summary Chronological series of milestones
+#labels milestones
 
 = Milestones =
 
