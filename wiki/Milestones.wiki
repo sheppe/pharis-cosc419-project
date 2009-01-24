@@ -1,15 +1,6 @@
 #summary Chronological series of milestones
 
-= Introduction =
+= Milestones =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-<iframe src="http://www.google.com/calendar/embed?src=vpaosaqbq1ah2h0u9rq8t4qsbg%40group.calendar.google.com&ctz=America/Vancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  * [http://www.google.com/calendar/embed?src=vpaosaqbq1ah2h0u9rq8t4qsbg%40group.calendar.google.com&ctz=America/Vancouver Calendar of milestones]
+  * [http://sites.google.com/site/cosc419/projects Official 419 milestone page]
