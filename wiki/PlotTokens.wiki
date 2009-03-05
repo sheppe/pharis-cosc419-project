@@ -7,12 +7,12 @@ These plot tokens are the only tokens to be used cross-map.
 
 = Details =
 
-  * '''FIND_BOOK''' - You have been told to find the spell book by the book store owner.
-  * '''HAS_BOOK''' - You have been given the spell book by Ash.
-  * '''FIND_GHOUL_BAIT''' - Ash has authorized you to find ghoul bait.
-  * '''HAS_GHOUL_BAIT''' - You have successfully purchased ghoul bait from SMART.
-  * '''DEFEAT_MANFRED''' - indicates that Manfred, the hideous monster, has been defeated.
-  * '''FIND_MACIVAR_ITEMS''' - Mac Ivar has sent you to find duct tape and a swiss army knife.
-  * '''HAS_MACIVAR_ITEMS''' - You have successfully purchased duct tape and a swiss army knife.
-  * '''HAS_MAGIC_FLOWER''' - Mac Ivar has found the magic flower and given it to you.
-  * '''MEMORY_RESTORED''' - indicates that Shortem's memory has been restored by the bookstore owner.
+  * *FIND_BOOK* - You have been told to find the spell book by the book store owner.
+  * *HAS_BOOK* - You have been given the spell book by Ash.
+  * *FIND_GHOUL_BAIT* - Ash has authorized you to find ghoul bait.
+  * *HAS_GHOUL_BAIT* - You have successfully purchased ghoul bait from SMART.
+  * *DEFEAT_MANFRED* - indicates that Manfred, the hideous monster, has been defeated.
+  * *FIND_MACIVAR_ITEMS* - Mac Ivar has sent you to find duct tape and a swiss army knife.
+  * *HAS_MACIVAR_ITEMS* - You have successfully purchased duct tape and a swiss army knife.
+  * *HAS_MAGIC_FLOWER* - Mac Ivar has found the magic flower and given it to you.
+  * *MEMORY_RESTORED* - indicates that Shortem's memory has been restored by the bookstore owner.
