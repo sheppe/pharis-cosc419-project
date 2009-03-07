@@ -40,13 +40,14 @@ int StartingConditional() {
 }}}
 
 
-ScriptEase sets tokens a little bit differently, but equivalent to setting a boolean value:
+ScriptEase sets tokens a little bit differently, but equivalent to setting a boolean value.  After cleaning it up:
 {{{
 SetLocalObject(GetModule(), "<<Token Name>>", GetPCSpeaker());
 }}}
 {{{
-if(GetLocalObject(GetModule(), "<<Token Name>>") == PCSpeaker_SE1){
+if(GetLocalObject(GetModule(), "<<Token Name>>") == GetPCSpeaker()){
     return TRUE;
   }
   return FALSE;
 }}}
+This requires using a new token for each step, whereas integers allow using one token for several stages of a task.
