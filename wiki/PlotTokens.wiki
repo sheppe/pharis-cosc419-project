@@ -11,6 +11,7 @@ These plot tokens are the only tokens to be used cross-map.
   * *HAS_BOOK* - You have been given the spell book by Ash.
   * *FIND_GHOUL_BAIT* - Ash has authorized you to find ghoul bait.
   * *HAS_GHOUL_BAIT* - You have successfully purchased ghoul bait from SMART.
+  * *BEGIN_BO_WITS* - indicates that the battle of wits has begun.
   * *DEFEAT_MANFRED* - indicates that Manfred, the hideous monster, has been defeated.
   * *FIND_MACIVAR_ITEMS* - Mac Ivar has sent you to find duct tape and a swiss army knife.
   * *HAS_MACIVAR_ITEMS* - You have successfully purchased duct tape and a swiss army knife.
