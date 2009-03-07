@@ -38,3 +38,15 @@ int StartingConditional() {
   return FALSE;
 }
 }}}
+
+
+ScriptEase sets tokens a little bit differently, but equivalent to setting a boolean value:
+{{{
+SetLocalObject(GetModule(), "<<Token Name>>", GetPCSpeaker());
+}}}
+{{{
+if(GetLocalObject(GetModule(), "<<Token Name>>") == PCSpeaker_SE1){
+    return TRUE;
+  }
+  return FALSE;
+}}}
