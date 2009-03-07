@@ -18,3 +18,23 @@ These plot tokens are the only tokens to be used cross-map.
   * *MACIVAR_FREE* - Mac Ivar is free from his cell.
   * *HAS_MAGIC_FLOWER* - Mac Ivar has found the magic flower and given it to you.
   * *MEMORY_RESTORED* - indicates that Shortem's memory has been restored by the bookstore owner.
+  * *NI_ENCOUNTER* - 1:PC has met nights of Ni, 2: PC has bought Shrubbery, 3: PC has given shrubbery to knights
+
+= Code =
+==Set plot token==
+{{{
+void main() {
+  SetLocalInt(GetModule(), "<<Token Name>>", 1);
+}
+}}}
+==Get plot token==
+*Testing for a conversation node:*
+(Conversation node will occur if token is set to this value)
+{{{
+int StartingConditional() {
+  if(GetLocalInt(GetModule(), "<<Token Name>>") == 1) {
+    return TRUE;
+  }
+  return FALSE;
+}
+}}}
