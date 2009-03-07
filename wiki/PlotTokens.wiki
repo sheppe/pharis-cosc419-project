@@ -15,5 +15,6 @@ These plot tokens are the only tokens to be used cross-map.
   * *DEFEAT_MANFRED* - indicates that Manfred, the hideous monster, has been defeated.
   * *FIND_MACIVAR_ITEMS* - Mac Ivar has sent you to find duct tape and a swiss army knife.
   * *HAS_MACIVAR_ITEMS* - You have successfully purchased duct tape and a swiss army knife.
+  * *MACIVAR_FREE* - Mac Ivar is free from his cell.
   * *HAS_MAGIC_FLOWER* - Mac Ivar has found the magic flower and given it to you.
   * *MEMORY_RESTORED* - indicates that Shortem's memory has been restored by the bookstore owner.
