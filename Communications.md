@@ -1,0 +1,8 @@
+# Introduction #
+
+Group members will communicate via email through use of the existing google groups account.
+
+# Details #
+
+Google groups information:
+  * threepwood@googlegroups.com
